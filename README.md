@@ -1,4 +1,4 @@
-# DATA ANALYSIS - R
+# Sentiment-analysis-with-R
 
 The goal of this project is to practice the data cleaning, data manipulation & data visualization
 techniques using R.
@@ -19,4 +19,6 @@ dataset of Jane Austen’s books.
 analysis.
 - After that, create the different visualizations on the sentiment scores to present the findings in the
 more compelling way.
-![Poster_Image](https://github.com/user-attachments/assets/c2cfbe3c-3fec-474f-9b38-c05d95c72170)
+
+![image](https://github.com/Sid-TheAnalyst/Sentiment-analysis-with-R/blob/main/Customer%20Sentiment%20Analysis/Poster_Image.png)
+
